@@ -18,8 +18,8 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Enredarte",
-    "subtitle": "Colombia.",
+    "title": "Tejidos",
+    "subtitle": "Tuchis",
     "description": "",
     "img": "/assets/images/1.png",
     "primaryAction": {
@@ -36,7 +36,7 @@
     "items": [
       {
         "title": "Productos",
-        "description": "Enredarte Colombia es un colectivo de artesanos dedicados a la elaboración de joyas y accesorios tejidos a mano.",
+        "description": "Tejidos Tuchis es un colectivo de artesanos dedicados a la elaboración de joyas y accesorios tejidos a mano.",
         "img": "/assets/images/2.png"
       },
       {
@@ -62,15 +62,10 @@
         "icon": "/assets/images/email.png"
       },
       {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
-      },
-      {
         "name": "Facebook",
         "description": "Mi Negocio",
         "icon": "/assets/images/facebook.jpg",
-        "url":""
+        "url":"https://www.facebook.com/enredarte2020"
       }
     ]
   },
